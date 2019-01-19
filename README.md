@@ -224,6 +224,7 @@ let service = new DataService();
 * How do you debug router?
 * Why do we need route guards?
 * What is a RouterOutlet?
+* What is auxiliary routing and how to achieve through multiple named routes?
 
 #### Security Questions:
 
